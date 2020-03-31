@@ -11,6 +11,10 @@ Scripts for blogs on Medium
   
 2. In the code folder are a jupyter notebook and a python script. They describe the analysis I made for my medium blog.
   * KG_panamapapers.ipynb descibes my newtork analysis on the panama papers using networkx and other python libraries. Before one run this jupyter notebook on their own computer, please remember to check the dependencies (as whether one have all required python libraries installed)
-  <img src="./PanamaPapers/Pictures/730_countries_connection.png" width="250"/>
+ <p align="center">
+   <img src="./PanamaPapers/Pictures/730_countries_connection.png" width="400"/>
+ </p>
   * Graph-tool_draw.py descibes how I depict the network with graph-tool. If one want to run this script, please install the graph-tool first.
-  <img src="./PanamaPapers/Pictures/SmallSubgraphwithin10nodes_sfdp.png" width="250"/>
+ <p align="center">
+  <img src="./PanamaPapers/Pictures/SmallSubgraphwithin10nodes_sfdp.png" width="400"/>
+ </p>

@@ -8,10 +8,11 @@ Scripts for blogs on Medium
   * Component730nodes.npy, and Component730nodes_sfdp_edges.npy are two numpy arrary files of node and edges information of an example discussed in my blog.  
   * For the Panama Papers database processed by me, please find them via the google drive link:https://drive.google.com/open?id=1_18uAbfS3lYywHMQwFClwWCBqWyQOASa.
 
-<img src="https://github.com/JJ1991Z/Medium/PanamaPapers/Pictures/Panama_edge_bars.png" alt="Your image title" width="250"/>
-![Image of connections](https://github.com/JJ1991Z/Medium/blob/master/PanamaPapers/Pictures/730_countries_connection.png | width=200)
+<img src="https://github.com/JJ1991Z/Medium/PanamaPapers/Pictures/Panama_edge_bars.png" alt="Panama_edge_bars.png" width="250"/>
 
-![Image of network](https://github.com/JJ1991Z/Medium/blob/master/PanamaPapers/Pictures/SmallSubgraphwithin10nodes_sfdp.png | width=200)
+![Image of connections](https://github.com/JJ1991Z/Medium/PanamaPapers/Pictures/730_countries_connection.png | width=200)
+
+![Image of network](https://github.com/JJ1991Z/Medium/PanamaPapers/Pictures/SmallSubgraphwithin10nodes_sfdp.png | width=200)
   
 2. In the code folder are a jupyter notebook and a python script. They describe the analysis I made for my medium blog.
   * KG_panamapapers.ipynb descibes my newtork analysis on the panama papers using networkx and other python libraries. Before one run this jupyter notebook on their own computer, please remember to check the dependencies (as whether one have all required python libraries installed)

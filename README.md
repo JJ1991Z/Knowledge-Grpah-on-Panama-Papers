@@ -9,11 +9,12 @@ Scripts for blogs on Medium
   * For the Panama Papers database processed by me, please find them via the google drive link:https://drive.google.com/open?id=1_18uAbfS3lYywHMQwFClwWCBqWyQOASa.
 
 
+![Image of connections](https://github.com/JJ1991Z/Medium/blob/master/PanamaPapers/Pictures/730_countries_connection.png | width=200)
+
+![Image of network](https://github.com/JJ1991Z/Medium/blob/master/PanamaPapers/Pictures/SmallSubgraphwithin10nodes_sfdp.png | width=200)
+  
 2. In the code folder are a jupyter notebook and a python script. They describe the analysis I made for my medium blog.
   * KG_panamapapers.ipynb descibes my newtork analysis on the panama papers using networkx and other python libraries. Before one run this jupyter notebook on their own computer, please remember to check the dependencies (as whether one have all required python libraries installed)
-  ![Image of connections](https://github.com/JJ1991Z/Medium/blob/master/PanamaPapers/Pictures/730_countries_connection.png | width=200)
   
   * Graph-tool_draw.py descibes how I depict the network with graph-tool. If one want to run this script, please install the graph-tool first.
-  ![Image of connections](https://github.com/JJ1991Z/Medium/blob/master/PanamaPapers/Pictures/SmallSubgraphwithin10nodes_sfdp.png | width=200)
-  
   

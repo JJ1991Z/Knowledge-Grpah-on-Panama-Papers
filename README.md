@@ -1,6 +1,6 @@
 # Scripts for blogs on Medium
 
-### https://medium.com/@JJZhang1991/panama-papers-meet-knowledge-graph-c70652d98f92?source=friends_link&sk=68e053eb2f3c28182f1ffa0464258735
+### https://link.medium.com/lxP32DUYi5
 
 ## 1. In the input folder are the spreedsheets. 
   * **Countries.csv** contains the location of different countries, it was used to draw the connection map.
